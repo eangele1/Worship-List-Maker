@@ -38,8 +38,9 @@ To format the CSV file:
 Finally, type this in:
 
     $ python WorshipListMaker.py
-The finished .docx file will be inside the same folder where the program is. Edit it in Microsoft Word for fine tuning. Additionally, if in your data some people have a new cellphone number, a file called "newNumbers.csv" will appear in the same place as the newly created .docx file.
-
+The finished .docx file will be inside the same folder where the program is. Edit it in Microsoft Word for fine tuning.
 ## Aditional Notes
 
-To see the program in action, an example input has been included along with the program. Just rename the file to "input.csv".
+• To see the program in action, an example input has been included along with the program. Just rename the file to "input.csv".
+• If in your data some people have a new cellphone number, a file called "newNumbers.csv" will appear in the same place as the newly created .docx file.
+• To make lists for different months, change your system calendar to the month desired, then revert once done.
