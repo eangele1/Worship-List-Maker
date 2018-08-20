@@ -1,0 +1,32 @@
+##GOOGLE FORM SETUP##
+This is how your Google Form needs to be created:
+
+-START OF FORM-
+
+Ministerio de Alabanza (Title of form) *NOT IMPORTANT*
+
+Pon tu información en este formulario. (Subtitle of form) *NOT IMPORTANT*
+
+Primer Nombre (First Question - Short answer text) *MARKED AS REQUIRED*
+
+Apellido (Second Question - Short answer text) *MARKED AS REQUIRED*
+
+¿Quieres que usemos el mismo numero de su teléfono? (Third Question - Multiple Choice (Yes or No Only)) *MARKED AS REQUIRED*
+
+Si no, pon tu nuevo numero. (Fourth Question - Multiple Choice (Tengo el mismo numero or Other Only)) *MARKED AS REQUIRED*
+
+Seleccione en que quieres servir. (Fifth Question - Checkboxes (List all services)) *NOT MARKED AS REQUIRED*
+
+Seleccione los días en que puedas servir. (Sixth Question - Checkboxes (List all days)) *MARKED AS REQUIRED*
+
+¿Cuales son los colores que tienes de vestuario? (Si el que también tienes no esta en la lista, pon el nombre de un color). (Seventh Question - Checkboxes (List all colors)) *NOT MARKED AS REQUIRED*
+
+-END OF FORM-
+
+##SIDE NOTES##
+
+Fifth Question: Put down only these choices and exactly as they are OR PROGRAM WILL NOT WORK!: Dirijir Himnos, Dirijir Alabanzas, Bajista, Guitarrista, Pianista, Baterista, Apoyo
+
+Sixth Question: Put down only these choices and exactly as they are OR PROGRAM WILL NOT WORK!: Domingo (12PM), Domingo (6PM), Miercoles (no accent)
+
+Seventh Question: Put down colors that you believe the majority has. Not case-sensitive.
