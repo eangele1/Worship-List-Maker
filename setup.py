@@ -10,6 +10,9 @@ def install(package):
 try:
 	import pip
 	print "Pip is already installed."
+	print ""
+	print "If the program prompts you to upgrade Pip, type in the command it gives you at the end."
+	print ""
 except ImportError:
 	print "Pip is not installed, installing it now!"
 	os.system("python get-pip.py")
@@ -20,6 +23,8 @@ except ImportError:
 try:
 	import docx
 	print "Python-docx is already installed."
+	print ""
+	print "Done! No further installation needed."
 except ImportError:
 	print "Python-docx is not installed, installing it now!"
 	install('python-docx')

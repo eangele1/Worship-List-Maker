@@ -8,16 +8,16 @@ NOTE: This program only works with Mac OS and Windows.
 
 ## Installation
 
-Make sure you have [Python](https://www.python.org/) and [Microsoft Word](https://products.office.com/en-us/home) installed first. Then proceed with the instructions.
+Make sure you have [Python](https://www.python.org/) installed first. [Microsoft Word](https://products.office.com/en-us/home) is recommended to have, but not necessary. Then proceed with the instructions.
 
 Download the project files to your computer, then run setup.py to install the necessary libraries.
 
-To run setup.py, open up terminal and type in this command:
+To run setup.py, open up terminal/command prompt and type in this command:
 
     $ cd
-Then wherever your download folder is, drag it into the terminal. Hit enter.
+Then wherever your download folder is, drag it into the terminal/command prompt. Hit enter.
 
-Next, type this once the terminal knows what folder you want to be in:
+Next, type this once the terminal/command prompt knows what folder you want to be in:
 
     $ python setup.py
 This will install the libraries that are needed to run the main program. Once setup.py is done, check out GoogleForm.txt to see how you should set up your google form to collect information.
@@ -38,7 +38,7 @@ To format the CSV file:
 Finally, type this in:
 
     $ python WorshipListMaker.py
-The finished .docx file will be inside the same folder where the program is. Edit it in Microsoft Word for fine tuning.
+The finished .docx file will be inside the same folder where the program is. Edit it in Microsoft Word (or other word processor that supports .docx files) for fine tuning.
 ## Aditional Notes
 
 • To see the program in action, an example input has been included along with the program. Just rename the file to "input.csv".
