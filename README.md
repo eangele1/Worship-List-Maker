@@ -42,5 +42,7 @@ The finished .docx file will be inside the same folder where the program is. Edi
 ## Aditional Notes
 
 • To see the program in action, an example input has been included along with the program. Just rename the file to "input.csv".
+
 • If in your data some people have a new cellphone number, a file called "newNumbers.csv" will appear in the same place as the newly created .docx file.
+
 • To make lists for different months, change your system calendar to the month desired, then revert once done.
