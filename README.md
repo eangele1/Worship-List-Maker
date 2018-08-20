@@ -8,7 +8,7 @@ NOTE: This program only works with Mac OS and Windows.
 
 ## Installation
 
-Make sure you have Python installed first. Then proceed with the instructions.
+Make sure you have Python and Microsoft Word installed first. Then proceed with the instructions.
 
 Download the project files to your computer, then run setup.py to install the necessary libraries.
 
